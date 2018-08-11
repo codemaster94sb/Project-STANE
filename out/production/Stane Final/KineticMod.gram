@@ -1,0 +1,5 @@
+#JSGF v1.0;
+
+grammar KineticMod;
+
+public <exit> = (Exit)(kinetic)(module);

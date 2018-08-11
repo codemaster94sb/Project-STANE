@@ -1,0 +1,4 @@
+#JSGF V1.0;
+grammar InitStane;
+public <voice> = (voice);
+public <kinetic> = (Kinetic);

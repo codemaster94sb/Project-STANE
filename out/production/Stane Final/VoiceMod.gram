@@ -1,0 +1,8 @@
+#JSGF v1.0;
+
+grammar VoiceMod;
+
+public <open>= (Open | Give Me A View Of | View)* (Program Files | Explorer | My Computer | Babaji Ka Thullu);
+public <social> = (Open Face Book);
+public <browser> = (Open Browser);
+public <exit> = (Exit)(voice)(module);

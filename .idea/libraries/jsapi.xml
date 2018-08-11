@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jsapi">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/College Work/8th-SEM/Project S.T.A.N.E/Development/sphinx4-1.0beta3/lib/jsapi.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/College Work/8th-SEM/Project S.T.A.N.E/Development/sphinx4-1.0beta3/lib/sphinx4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/College Work/8th-SEM/Project S.T.A.N.E/Development/sphinx4-1.0beta3/lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/College Work/8th-SEM/Project S.T.A.N.E/Implementation Files/Voice/TTS/freetts/bin/freetts-1.2/lib/freetts.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/College Work/8th-SEM/Project S.T.A.N.E/Implementation Files/Voice/TTS/freetts/bin/freetts-1.2/lib/mbrola.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/College Work/8th-SEM/Project S.T.A.N.E/Implementation Files/Voice/TTS/freetts/bin/freetts-1.2/lib/en_us.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
